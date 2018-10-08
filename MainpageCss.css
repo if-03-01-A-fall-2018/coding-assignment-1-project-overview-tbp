@@ -10,11 +10,7 @@ section> p{
   font-size: 25px;
   font-weight: bold;
 }
-section > img{
-  width: 600px;
-  height: 400px;
-}
-section > section > section > img{
-  width: 1000px;
-  height: 400px;
+section#Badoo{
+  width: 500px;
+  height: 500px;
 }
