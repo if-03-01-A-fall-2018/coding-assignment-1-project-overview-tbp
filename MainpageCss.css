@@ -5,12 +5,16 @@ section > h1{
   font-size: 50px;
   color: pink;
 }
-section> p{
+section > p{
   color: lightblue;
   font-size: 25px;
   font-weight: bold;
 }
-section#Badoo{
+section#Badoo > img{
+  width: 500px;
+  height: 500px;
+}
+section#Tinder > img{
   width: 500px;
   height: 500px;
 }
