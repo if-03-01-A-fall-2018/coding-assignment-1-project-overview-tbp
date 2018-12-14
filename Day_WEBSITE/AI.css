@@ -1,44 +1,36 @@
-*{
-  margin: 0;
-  padding: 0;
-}
-body{
-  background-color: #eee;
-}
 .img_AI{
-  width: auto;
-  height: auto;
+  width: 100%;
+  height: 500px;
   background-image: url(IMG/AI.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
-.wrapper{
+.img_Stars{
   margin: 0 auto;
   width: 1000px;
+  height: 500px;
+  background-image: url(IMG/Background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
-nav{
-  height: 100px;
-  width: 100%;
-  background-color: #fff;
+.img_DL{
+  margin: 0 auto;
+  width: 1000px;
+  height: 500px;
+  background-image: url(IMG/DL.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
-ul{
-margin-left: 0px;
-}
-ul li{
-  list-style: none;
-  display: inline-block;
-  float: left;
-  line-height: 100px;
-}
-ul li a{
-  display: block;;
-  text-decoration: none;
-  font-size: 14px;
-  font-family: arial;
-  color: #1e1e1e;
-  padding: 0 20px;
-}
-ul li a:hover{
-  color: red;
+.img_ML{
+  margin: 0 auto;
+  width: 1000px;
+  height: 500px;
+  background-image: url(IMG/ML.png);
+  background-size: cover;
+  background-repeat: cover;
+  background-repeat: no-no-repeat;
+  background-position: center;
 }
